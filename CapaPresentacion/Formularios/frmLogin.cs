@@ -116,5 +116,10 @@ namespace CapaPresentacion.Formularios
             bunifuTransition1.ShowSync(frm, false, Animation.HorizSlide);
             this.Hide();
         }
+
+        private void rjButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
